@@ -1,3 +1,3 @@
 Solar Introductions;
 
-Solar-lang OS lang development. 11/05/22
+solar-lang OS lang development. 11/05/22
